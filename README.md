@@ -3,8 +3,8 @@
 Boostrap Admin Website
 
 
-Front-end: Bootstrap,HTML,CSS,JS
-BACKE-END: JAVA,MYSQL
+Front-end: Bootstrap,HTML,CSS,JS,AJAX   
+Back-end:  JAVA,MYSQL
 
 ->login     
 ->register    
@@ -12,7 +12,7 @@ BACKE-END: JAVA,MYSQL
 ->tables    
 ->chart  
 
-TO fetch records from database:
-
- -> please refer to fetchrecordsSQL.txt file
- -> please add jar file oracle ojdbc14.jar
+To fetch records from database:    
+  
+ -> please refer to fetchrecordsSQL.txt file        
+ -> please add jar file oracle ojdbc14.jar  

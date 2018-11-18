@@ -6,11 +6,14 @@ Boostrap Admin Website
 Front-end: Bootstrap,HTML,CSS,JS,AJAX   
 Back-end:  JAVA,MYSQL
 
-->login     
-->register    
-->forgot      
-->tables    
-->chart     
+List of pages:  
+
+      ->login     
+      ->register    
+      ->forgot      
+      ->tables    
+      ->chart     
+
 
 To fetch records from database:
 

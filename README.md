@@ -10,9 +10,10 @@ Back-end:  JAVA,MYSQL
 ->register    
 ->forgot      
 ->tables    
-->chart  
+->chart     
 
-To fetch records from database:    
-  
+To fetch records from database:
+
+  ->Bootstrapadmin.zip file contains whole project      
  -> please refer to fetchrecordsSQL.txt file        
  -> please add jar file oracle ojdbc14.jar  
